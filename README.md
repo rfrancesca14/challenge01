@@ -1,7 +1,9 @@
 # HoriSEO
 
 ## Description 
-In this project we were given a codebase from a website that needs improving. 
+In this project we were given a codebase from a website that needs improving. The company would like their webpage to meet accesibility standards so that it is optimized for search engines. Throughout this task, we will also be looking for ways to refactor the code to make it more readable.
+
+The first step of the project is to create a repository on Github and pushing the starter code to Github. This is a very important step as it allows me to save my work and also allows others to see my work if ever they need to collaborate with me. The link to that repository is: ....
 
 
 ## Table of Contents (Optional)
