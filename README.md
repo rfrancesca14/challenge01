@@ -1,72 +1,37 @@
 # HoriSEO
 
-## Description 
+## User Story
 In this project we were given a codebase from a website that needs improving. The company would like their webpage to meet accesibility standards so that it is optimized for search engines. Throughout this task, we will also be looking for ways to refactor the code to make it more readable.
 
-The first step of the project is to create a repository on Github and pushing the starter code to Github. This is a very important step as it allows me to save my work and also allows others to see my work if ever they need to collaborate with me. The link to that repository is: ....
+## Description 
+The first step of the project is to create a repository on Github and pushing the starter code to Github. This is a very important step as it allow me to save my work and also allows others to see my work if ever they need to collaborate with me. The link to that repository is: https://github.com/rfrancesca14/challenge01.git
 
+Here are the steps that i did to refactor the code as required by the "Acceptance Criteria"
+ * I gave the website a title called Hori S|E|O (SEO for search engine optimization)
+ * Changed all the "div" tags to more descriptive elements such as "nav", "section" and "aside". That way it is easier to read or understand the sections of the codes. 
+ * Also changed the tags on CSS file to reflect the changes that I made on index file so that it's properties are still applied. 
+ * Fixed the Search Engine Optimization nav by adding an id element so that it now directs the users to the article.
+ * Alt attributes are also added to all body images with detailed description of the photos.
+ * I renamed the classes for benefits as they all have the same properties this was done to avoid repetition of identical styling properties.
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
-
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Please refer to licence in repository,
+
+## Screenshots
+
+Screenshot of the website
+Screenshot 2022-10-25 at 17.14.35.png
 
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
 ---
 
